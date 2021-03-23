@@ -1,0 +1,42 @@
+body{
+text-align:center;
+}
+
+.userInput{
+    border: 2px solid blue;
+    width: 85%;
+    height: 25px;
+    font-size: 15px;
+    display: inline-block;
+}
+.btn{
+  background-color: #02d802;
+  color:white;
+  font-size: 15px;
+  width:8%;
+  height:31px;
+  display: inline-block;
+}
+.btn value{
+  color:grey;
+}
+.btn:hover{
+  background-color: green;
+}
+
+.container{
+  margin: 20px 3% 0 3%;
+}
+
+.container-image{
+  width:30%;
+  display: block;
+  float: left;
+  margin-right: 3%;
+  margin-top: 10px;
+}
+
+.showGif{
+  margin-left: 10px;
+  margin-right: 10px;
+}
